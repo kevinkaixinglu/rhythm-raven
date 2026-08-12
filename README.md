@@ -11,7 +11,7 @@
 **Rhythm Raven** is a multi-level rhythm game where players perform tasks to the beat of a soundtrack. Unlike standard game loops that rely on frame-based timing (`Time.deltaTime`), this engine utilizes Unity's **Audio DSP Time** to ensure visual cues never drift from the audio track, even during frame rate drops.
 
 * **Play the Game:** [\[Link to Itch.io\]](https://ravenrhythm.itch.io/raven-rhythm)
-* **Watch Trailer:** [\[Link to YouTube\]](https://youtu.be/D2Ttavz53Ag)
+* **Check out our website and credits here!** [\[Link to Website\]](https://ravenrhythm.wixsite.com/my-site-1)
 
 ## Technical Architecture
 
