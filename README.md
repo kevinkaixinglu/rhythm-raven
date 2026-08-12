@@ -32,17 +32,3 @@ The game is structured around multiple beat-synced minigames, each with unique m
 
 ### 4. State Management & Game Flow
 A global state manager handles scene transitions, pausing, volume mixing, and score tracking across all levels.
-
-## Credits
-Developed by the **Rhythm Raven Team**:
-
-| Team Member | Role | Contributions |
-|---|---|---|
-| Kevin Lu | Project Lead & Gameplay Engineer | [View](./CONTRIBUTIONS.md#kevin-lu--project-lead--gameplay-engineer) |
-| Kalen Lauring | Gameplay Engineer & Audio Track Producer | [View](./CONTRIBUTIONS.md#kalen-lauring--gameplay-engineer--audio-track-producer) |
-| Carter Ng-Yu | Gameplay Engineer | [View](./CONTRIBUTIONS.md#carter-ng-yu--gameplay-engineer) |
-| Hana Kopp | Art & Game Flow Engineer | [View](./CONTRIBUTIONS.md#hana-kopp--art--game-flow-engineer) |
-| Carlos Schober | Gameplay Engineer & Audio Track Producer | [View](./CONTRIBUTIONS.md#carlos-schober--gameplay-engineer--audio-track-producer) |
-| Cindie Li | Art | [View](./CONTRIBUTIONS.md#cindie-li--art) |
-
----
